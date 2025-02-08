@@ -1,5 +1,5 @@
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=lanterns4.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="lanterns4.jpg">
   <source media="(prefers-color-scheme: light)" srcset="lanterns.jpg">
   <img alt="Shows a composite image of a lantern in the snow in light mode, and a stormy winter's sea in dark mode">
 </picture>
