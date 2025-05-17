@@ -1,8 +1,7 @@
 # Site settings
 title: Maya A. Horton
 email: mah241@cam.ac.uk
-description: >
-  Astronomer, author, illustrator and sustainability expert
+description: Astronomer, author, illustrator and sustainability expert
 baseurl: ""       
 url: "https://mayaahorton.github.io"
 
