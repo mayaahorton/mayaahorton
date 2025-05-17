@@ -6,11 +6,3 @@ description: >
 baseurl: ""       
 url: "https://mayaahorton.github.io"
 
-# Build settings
-destination: ./_site
-
-theme: minima      # if all else fails
-plugins: []
-
-# Markdown processor
-markdown: kramdown
