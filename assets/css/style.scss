@@ -1,0 +1,48 @@
+// Variables: analogous blues
+i @import "https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css";
+$midnight: #0b1a2f;
+$deep-blue: #1e2a47;\$twilight: #4a5a7a;
+$sky: #7b8dad;
+$highlight: #aab8d4;
+$text: #edf2f7;
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: $midnight;
+  color: $text;
+  line-height: 1.6;
+  padding: 2em;
+}
+
+a {
+  color: $highlight;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.2s;
+}
+
+a:hover {
+  border-bottom: 1px solid $highlight;
+}
+
+header, footer {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+h1 a {
+  color: $sky;
+  text-decoration: none;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: $deep-blue;
+  margin: 2em 0;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
