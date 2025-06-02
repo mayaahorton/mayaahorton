@@ -12,3 +12,6 @@ Outside work my main interests include creativity theory, art and HPS. Sometimes
 
 ## Languages and Experience
 My PhD research was based mostly in C/C++ (numerical modelling of astrophysical jets) and Python (visualisation and image cube manipulation). I have strong HTML and CSS experience and developed the LOFAR Surveys website in 2019. I have broad Linux sysadmin experience through managing a research cluster. I have 15+ years experience with MATLAB, somewhat accidentally. I also have varying levels of exposure to IDL, GTK, Java and other random things. Before returning to astronomy my background covered a broad mix of heritage and environmental project management and research.
+
+## Health and Campaigning
+I am an outspoken advocate for changing the diagnostic journey within healthcare. It is often too difficult for individuals to get adequate and timely support due to misunderstandings, approximations, non-specific diagnostic tools and lack of communication between healthcare providers. Some of my campaigning involves proposing new technological solutions for monitoring, but most of my advocacy centres around listening to, and trusting, patients. I believe policy engagement is very important for all researchers and I have strong interests in sustainability, social sciences and philosophy which transect different aspects of research. 
