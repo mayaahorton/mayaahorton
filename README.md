@@ -8,10 +8,10 @@
 I am currently a Product Owner and software developer within the SKA telescope project, where our team focuses on developing next-generation pre-processing pipelines. I am based at the University of Cambridge with a background is in radio astronomy: both observations and simulations. My personal research focuses on finding host galaxy candidates for supermassive binary black holes. My work falls firmly under the multimessenger banner and the technical issues involved in cross-matching across instruments and domains. 
 
 ### Astronomy Research
-My research blends high-energy computational fluid dynamic simulations with projected radio maps and large sky surveys. I am particularly interested in complex low-frequency extended structure, precessing jets, and physical processes driving morphology. I have been successfully awarded observing time on a number of telescopes including MeerKAT and the VLA.
+My research blends high-energy computational fluid dynamic simulations with projected radio maps and large sky surveys. I am particularly interested in complex low-frequency extended structure, precessing jets, and physical processes driving morphology. I have long been involved in LOFAR Surveys and been successfully awarded observing time on a number of radio telescopes, including MeerKAT and the VLA.
 
 ### Space Sustainability
-I am deputy technical lead on the European Space Agency's "Zero Debris Booklet" project for working group on the space circular economy. I am a member of the IAU-CPS and have a very long-standing interest in dark and quiet skies. 
+I am deputy technical lead on the European Space Agency's "Zero Debris Booklet" project for working group on the space circular economy. I am a member of the IAU-CPS and have a very long-standing interest in dark and quiet skies. I have been involved in the development of dark sky reserves and designation of dark sky sites within the UK, and am increasingly interested in not only the physical waste and repurposing of materials, but electromagnetic waste (noise and light pollution).
 
 ## Hobbies and Interests
 I am drawn to anything speculative and experimental, from ecological and economic resource models to creativity theory and anything in between. I write science fiction and like to draw and make things. 
