@@ -4,6 +4,9 @@
   <img alt="Shows a composite image of a lantern in the snow in light mode, and a stormy winter's sea in dark mode">
 </picture>
 
+## Autumn 2026 Update
+I am writing a book! I received UNESCO funding and dedicated residency space to work full-time on my novel(s). I expect to be on hiatus from astronomy / software until at least March 2027 (when my current round of residencies ends), depending on health status. However, I am still writing my outstanding supermassive black hole precession papers in the background, so I haven't entirely ``left'' astronomy. 
+
 ## About Me
 I am an artist, writer and creative technologist currently existing as a digital nomad. I spent about three years working at the University of Cambridge as Product Owner / Postdoctoral Research Associate in pipeline development for radio astronomy. I worked specifically on algorithm development for the Square Kilometre Array project. 
 
